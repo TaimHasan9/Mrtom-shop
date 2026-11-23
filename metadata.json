@@ -1,0 +1,6 @@
+{
+  "name": "Othoba.com",
+  "description": "Hassle-free online shopping in Bangladesh — Electronics, Groceries, Furniture, Home Appliances, Beauty, Toys, Fashion & Daily Essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
